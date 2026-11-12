@@ -5,7 +5,7 @@
 
 ![github cover](https://github.com/sultanshahdev/sultanshahdev/blob/main/267769941-dead2d22-a0da-4ab1-8443-c7325b0a057e%20(1).png)
 
-p align="center"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=abbasikhadija&label=Profile%20views&color=0e75b6&style=flat" alt="abbasikhadija" /> 
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/abbasikhadija?label=Stars">
 </p>

@@ -75,18 +75,19 @@ A few projects from my full-stack development journey:
 
 ## ⚙️ GitHub Analytics
 
-<div align="center">
 
-<a href="https://github.com/abbasikhadija">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abbasikhadija&show_icons=true&theme=algolia&hide_border=true" alt="Khadija's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasikhadija&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Khadija's top repository languages" />
+<p align="center">  
+<a href="https://github.com/sultanshahdev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abbasikhadija&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abbasikhadija&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-
-</div>
+</p>
 
 ## ⚡ Recent GitHub Activity
-
-[![Khadija's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abbasikhadija&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/abbasikhadija)
+ 
+[![Sultan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abbasikhadija&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Decorative animated divider" />
 

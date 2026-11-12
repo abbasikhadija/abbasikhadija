@@ -85,18 +85,13 @@ A few projects from my full-stack development journey:
 
 ## ⚡ Recent GitHub Activity
  
-[![Sultan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abbasikhadija&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Khadija's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abbasikhadija&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Decorative animated divider" />
-
----
-
 ## 📫 Connect With Me
 
-<a href="https://github.com/abbasikhadija">
-  <img src="https://img.shields.io/badge/GitHub-abbasikhadija-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: abbasikhadija" />
-</a>
-
-<!-- Add a LinkedIn badge here after confirming Khadija's LinkedIn profile URL. -->
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/khadija-abbasi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://github.com/abbasikhadija" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
+</p>

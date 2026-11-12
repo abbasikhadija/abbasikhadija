@@ -3,8 +3,12 @@
 
 <div align="center">
 
-![Khadija Abbasi — Full-Stack Developer](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:3A6073&height=210&section=header&text=Khadija%20Abbasi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=39&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=62&descSize=19)
+![github cover](https://github.com/sultanshahdev/sultanshahdev/blob/main/267769941-dead2d22-a0da-4ab1-8443-c7325b0a057e%20(1).png)
 
+p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=abbasikhadija&label=Profile%20views&color=0e75b6&style=flat" alt="abbasikhadija" /> 
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/abbasikhadija?label=Stars">
+</p>
 <img src="https://komarev.com/ghpvc/?username=abbasikhadija&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/abbasikhadija?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
 

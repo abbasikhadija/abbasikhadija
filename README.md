@@ -9,10 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=abbasikhadija&label=Profile%20views&color=0e75b6&style=flat" alt="abbasikhadija" /> 
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/abbasikhadija?label=Stars">
 </p>
-<img src="https://komarev.com/ghpvc/?username=abbasikhadija&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/abbasikhadija?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-
-</div>
 
 <img align="right" alt="Developer coding animation" height="245" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
 

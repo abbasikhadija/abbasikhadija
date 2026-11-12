@@ -25,18 +25,6 @@ A **full-stack developer** interested in building polished interfaces, dependabl
 
 <br clear="right" />
 
----
-
-## 🚀 Featured Work
-
-A few projects from my full-stack development journey:
-
-**01 / Coincella** &nbsp;·&nbsp; **02 / Fieldnest** &nbsp;·&nbsp; **03 / Coincell**
-
-<!-- Optional: link each project title to its confirmed repository/demo URL. -->
-
----
-
 ## 💻 Tech Stack
 
 ### 💻 Languages
